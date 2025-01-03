@@ -1,0 +1,71 @@
+Campfire.esm
+Dwarfsphere.esp
+Wyrmstooth.esp
+Requiem Records Fix.esp
+Unofficial Skyrim Special Edition Patch.esp
+Requiem.esp
+SkyUI_SE.esp
+Skyrim VR SSE USSEP Compatibility Mod.esp
+MCMHelper.esp
+Clockwork.esp
+Requiem - Better Birthsigns reworked.esp
+Bestial blood & Werewolf perks redone by Seigi.esp
+Requiem - Better Blacksmiths.esp
+Requiem - Cheaper Horses SE.esp
+Requiem - Cheaper Mercenaries SE.esp
+Requiem - Classic Alchemy Overhaul Plotinuz Update.esp
+Requiem - Alchemy Overhaul Magnitude values.esp
+Requiem - Classic Alchemy Perk Overhaul.esp
+Requiem - Clockwork.esp
+Requiem - Resistance and Regeneration Tweaks.esp
+Requiem - Exhaustion and Stamina Tweaks.esp
+Requiem - Greatsword Focus Revamped.esp
+vrik.esp
+BeSeated_3.0.0.esp
+Conduit.esp
+higgs_vr.esp
+IHarvest.esp
+Immersive Citizens - AI Overhaul.esp
+UIExtensions.esp
+Jewelry limiter.esp
+MageVR.esp
+DeadlyDragons.esp
+Requiem - Fixed Dragon Levels - Deadly Dragons.esp
+ScopedBows_ArrowTweaks.esp
+ScopedBows_EagleEyeTweak.esp
+ScopedBows.esp
+SkyVoice.esp
+Swap Drop and Hold.esp
+UltimateCombat.esp
+ZIA_Complete Pack.esp
+PrvtIRoyalArmory.esp
+MBW Dragon Souls to Perk Points.esp
+QuickStart3_NoHelmet.esp
+GiftByHandVR.esp
+PhysicalDodgeVR.esp
+Mortal Enemies.esp
+Campfire_RUS.esp
+Frostfall.esp
+LegendsOfAetherium.esp
+HeartOfTheReach.esp
+Requiem - Heart of the Reach.esp
+immersive_soul_gem_usage.esp
+MoonAndStar_MAS.esp
+MoonAndStar_MAS_RUS.esp
+Requiem - Moon and Star.esp
+Requiem - DwarfSphere.esp
+Requiem - Shrine works readjusts.esp
+Wyrmstooth VR Patch.esp
+Requiem - Wyrmstooth.esp
+Fozars_Dragonborn_-_Requiem_Patch.esp
+crimsonquestmarkers.esp
+BarenziahQuestMarkers.esp
+Werewolf Body for VR.esp
+SpellResearch.esp
+SpellResearchAddOn.esp
+Requiem - Classic Alchemy Overhaul Spell Research Integration.esp
+WaitCarriageInns.esp
+BW Aela.esp
+FDE Aela.esp
+Requiem for the Indifferent.esp
+PAN_WarriorWomen.esp
